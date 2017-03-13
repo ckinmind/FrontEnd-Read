@@ -4,11 +4,14 @@
 
 | 编号  |  关键词 |
 | :------------: | :------------: |
+| 34| `ES7 Decorator` `ES.Next` `React 组件间通讯` `styled-components` `CSS 自定义属性 `|
+| 33| `Google Developers` `webpack2` `Preact` `Fastlane` `MobX`|
+| 32| `react-fetch` `Progressive Web` `同构 JavaScript 应用` `React Server Side Rendering`|
 | 31| `leetcode` `Firebase` `wilddog` `immutable` `redux-thunk` `Immutable 详解及 React 中实践`|
 | 30| `react-css-modules` `CSS Modules` `CSS Modules 用法教程` `fetch()` `React 最佳实践` `StrongLoop`|
 | 29| `Atomic Design` `React的使用场景探索` `fibjs` `深入理解React、Redux` `React掌握这5大核心` `微信小程序的编程模式`|
 | 28| `modernizr.js` |
-| 27| `XMLHttpRequest Level 2` `jQuery的deferred对象` `JSONP` `JS模板引擎` `facebook.design` `jQuery MixItUp插件`|
+| 27| `XMLHttpRequest Level 2` `jQuery的deferred对象` `JSONP` `JS模板引擎` `facebook.design`|
 | 26| `webpack前端模块加载工具` `CommonJS规范` `AMD` `browserify` `观察者模式` `React Web`|
 | 25| `jQuery 3.0` `Selenium Driver` `nightmarejs` `前端组件化开发实践` `什么叫组件化开发` `AC2016腾讯前端技术大会`|
 | 24| `CSS动画简介` `Compass` `15 个页面的项目怎么规范css样式` `马克鳗` `浅谈 React、Flux 与 Redux` `vue-material`|
