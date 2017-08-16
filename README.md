@@ -4,7 +4,7 @@
 
 | 编号  |  关键词 |
 | :------------: | :------------: |
-| 40| `Webpack Code Splitting` `Prepack` `css垂直居中` `AR` `30天30中新技术` `cost-of-modules` |
+| 40| `Webpack Code Splitting` `Prepack` `css垂直居中` `AR` `30天30种新技术` `cost-of-modules` |
 | 39| `css填充和外边距` `程序员表白` `React vs Vue` `Css Grid` `web跨域` `js机器学习` |
 | 38| `polished` `Next.js` `Async/Await` `timeline.js` |
 | 37| `mobx` `three.js` `滚动锚定` `fetch` `Node.js REST API`|
