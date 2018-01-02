@@ -6,7 +6,7 @@
 | :------------: | :------------: |
 | 54| `CSS Custom Properties` `CSS Filters` `BFC`  `flow.ci` `大屏` `数据可视化`|
 | 53| `D3入门` `GraphQL` `svg指南` |
-| 52| `` `` `` |
+| 52| `Reason` `CodePen` `未来前端` `B站前端` `2018前端` |
 | 51| `React 小模式` `cube-ui` `css黑科技` |
 | 50| `实现mobx` `样式库DXY-UI` `easywebpack-cli` `JS 装饰器` |
 | 49| `ES7 Decorator` `装饰着模式` `Frappé Charts` `剖析单页路由` |
