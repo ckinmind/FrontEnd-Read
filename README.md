@@ -6,7 +6,7 @@
 | :------------: | :------------: |
 | | `` `` `` `` `` ``|
 | | `` `` `` `` `` ``|
-| | `` `` `` `` `` ``|
+| 68| `做会成功的设计` `前端该知道些密码学和安全上的事儿` `Why review code?` `whistle`|
 | 67| `CSS layout cookbook` `quicklink` `React95` `Webpack4` `在工作中快速成长` `企业软件的研发过程`|
 | 66| `UForm` `build-your-own-x` `blockchain-in-js` `Webpack-tapable` `用数据驱动效能提升` `Shepherd`|
 | 65| `纯前端用XLSX库导出excel` `lerna` `前端单元测试框架` `GraphQL` `正则` `项目价值`|
