@@ -10,7 +10,7 @@
 | | `` `` `` `` ``|
 | | `` `` `` `` ``|
 | | `` `` `` `` ``|
-| | `` `` `` `` ``|
+| 72| `UI背景设计趋势` `Google网页性能的新策略` `Page Lifecycle` `grid布局教程` `postcss-grid-kiss` `Web性能优化`|
 | 71| `Content-Disposition` `多网站CSS架构` `Table Convert Online` `绑定this` `lodash类型` `前端的未来`|
 | 70| `CSS4新增的选择器` `React区分Class和Function` `前端/设计` `CSS数据上报和HTML验证` `SVG，Image,Iconfont`|
 | 69| `Node Server Debug` `驳《慎用 try catch》` `精读《React16 新特性》` `Dribbble设计趋势` `2019UX年度报告解读`|
