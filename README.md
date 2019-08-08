@@ -7,7 +7,7 @@
 | | `` `` `` `` `` ``|
 | | `` `` `` `` `` ``|
 | | `` `` `` `` `` ``|
-| | `` `` `` `` `` ``|
+| 81| `img标签动态图片的进化` `Webpack4和单页` `Chrome Performance工具` `ES Module` `jsinspect` ` React复用与封装`|
 | 80| `web音频可视化` `React router动态加载组件` `React-loadable代码分割` `webpack按需加载` `CSS抛物线效果` `Web应用架构基础课`|
 | 79| `OffscreenCanvas` `Babel 7.0` `Typescript设计模式` `CSS背景色镂空技术` `前端插拔式 SPA应用架构` `视差滚动CSS`|
 | 78| `前端单页应用微服务化解决方案`|
