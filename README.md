@@ -5,7 +5,7 @@
 | 编号  |  关键词 |
 | :------------: | :------------: |
 | | `` `` `` `` `` ``|
-| 97| `前端国际化文案i18n` `CSS shapes布局` `Page Visibility` `CSS列选择符双管道（||）` `条件CSS` `CSS columns分栏布局`|
+| 97| `前端国际化文案i18n` `CSS shapes布局` `Page Visibility` `CSS列选择符双管道` `条件CSS` `CSS columns分栏布局`|
 | 96| `Spectrum` `前端技术选型` `前端tree组件性能` `Table 组件` `ES2019` `git分支管理`|
 | 95| `GitHub骚操作` `动画FLIP技术` `web安全漏洞` `前端组件设计原则` `2019 前端性能优化` `好产品的反馈机制`|
 | 94| `贝塞尔曲线` `HTTP头` ` Web性能优化` `ProseMirror` `高扩展的在线网页制作平台`|
