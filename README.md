@@ -23,6 +23,7 @@
 | 95| `GitHub骚操作` `动画FLIP技术` `web安全漏洞` `前端组件设计原则` `2019 前端性能优化` `好产品的反馈机制`|
 | 94| `贝塞尔曲线` `HTTP头` ` Web性能优化` `ProseMirror` `高扩展的在线网页制作平台`|
 | | `` `` `` `` `` ``|
+| 85| `前端插拔式SPA应用架构实现方案` `qiankun` `前端性能优化` `Houdini` `G6-Editor` `精确统计页面停留时长`|
 | 84| `ES6解构赋值性能` `浏览器中的画中画` `web上使用 JavaScript 模块` `SVG滤镜` `JS无埋点技术` `CSS3 animation中的steps`|
 | 83| `前端工作流Lugia` `canvas HTML属性尺寸和CSS尺寸多个细节` `npm私有包开发调试` `Node多版本共存` `知识图谱`|
 | 82| `CSS3混合模式` `webpack动态入口构建` `Web性能优化地图` `Webpack sideEffects` `React Router4.x的坑` `react-canvas`|
