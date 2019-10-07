@@ -7,7 +7,7 @@
 | |``  ``  `` `` `` `` |
 | |``  ``  `` `` `` `` |
 | |``  ``  `` `` `` `` |
-| |``  ``  `` `` `` `` |
+|119|`设计的工程化`  `云凤蝶中台` `sharpP` `checkValidity等form` `VSCode原理解析` `2019TLC大会—大前端` |
 |118|`zhui组件库`  `前端协作规范`  `大规模应用TypeScript` `AST 与前端工程化实战` `CSS flex布局最后一行列表左对齐` `每日优鲜供应链前端团队微前端改造` |
 |117| `Bootstrap5移除jQuery依赖` `GraphQL-BFF` `Deno` `页面可视化搭建工具技术要点` `Web OS` `Code Review` |
 |116| `单页应用微服务化解决方案` `微服务化方案 - 消息总线` `微前端搭建类单页应用` `Histories` `react-router使用history控制路由跳转`|
