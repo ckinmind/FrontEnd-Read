@@ -6,7 +6,7 @@
 | :------------: | :------------: |
 || `` `` `` `` `` ``|
 || `` `` `` `` `` ``|
-|| `` `` `` `` `` ``|
+|132| `前端技术清单` `Rollup.js` `文本溢出截断省略方案合集` `Web Workers 多线程` |
 |131| `可维护的 React 程序之复用与封装` `TC39` `JavaScript Optional Chaining` `Moveable`|
 |130|`前端进阶` `jsmind` `Webpack 4` `OneNote`|
 |129|`CSS Grid Generator` `nodebestpractices` `typical` `immer` `devdocs.io` `常用JS正则大全`|
